@@ -5,7 +5,7 @@ using namespace std;
 
 // Takes a note and returns its frequency
 
-// Based on https://gist.github.com/stuartmemo/3766449
+// Based on https://gist.github.com/stuartmemo/3766449 
 
 float GetFrequency(string note)
 {
